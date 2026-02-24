@@ -1,3 +1,5 @@
 password=root
 username=root
 email=trupti@gmail.com
+username=root
+
